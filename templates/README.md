@@ -17,4 +17,4 @@ This is an index of Deneb templates.
 
    100% stacked area chart. When you hover over a bar, it highlights on chart and legend with a tooltip.
  
-   https://github.com/PowerBI-tips/Deneb-Templates/blob/ecca44972953fea09045017b7444ca4377ea4c2d/templates/100%25%20Stacked%20Area.json#L1-L150
+   https://github.com/somedaygone/Deneb-Templates/blob/2b9b06854f89577312eedb5b8d8f3f0bc1492e5b/templates/100%25%20Stacked%20Area.json#L1-L150
